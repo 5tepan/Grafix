@@ -1,0 +1,5 @@
+﻿  abs.cpp
+D:\grafix\abs\abs.cpp(185,52): warning C4244: -=: преобразование "double" в "int", возможна потеря данных
+D:\grafix\abs\abs.cpp(210,52): warning C4244: -=: преобразование "double" в "int", возможна потеря данных
+D:\grafix\abs\abs.cpp(230,52): warning C4244: -=: преобразование "double" в "int", возможна потеря данных
+  abs.vcxproj -> D:\grafix\abs\Debug\abs.exe
